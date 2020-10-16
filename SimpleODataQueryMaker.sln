@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleODataQueryMaker", "SimpleODataQueryMaker\SimpleODataQueryMaker.csproj", "{815B35BA-9919-4EC2-B2DD-6FD76FE0D8A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleODataQueryMakerConsoleTest", "SimpleODataQueryMakerConsoleTest\SimpleODataQueryMakerConsoleTest.csproj", "{44E497F1-088E-4B1F-A232-0209D252759D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{815B35BA-9919-4EC2-B2DD-6FD76FE0D8A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{815B35BA-9919-4EC2-B2DD-6FD76FE0D8A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{815B35BA-9919-4EC2-B2DD-6FD76FE0D8A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{815B35BA-9919-4EC2-B2DD-6FD76FE0D8A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44E497F1-088E-4B1F-A232-0209D252759D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44E497F1-088E-4B1F-A232-0209D252759D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44E497F1-088E-4B1F-A232-0209D252759D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44E497F1-088E-4B1F-A232-0209D252759D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E61B5F6D-1580-40FF-9F18-A3037B7B9E2C}
+	EndGlobalSection
+EndGlobal

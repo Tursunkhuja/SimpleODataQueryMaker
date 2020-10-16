@@ -1,0 +1,8 @@
+C:\Users\tursunhuja\Source\repos\SimpleODataQueryMaker\SimpleODataQueryMaker\bin\Debug\netcoreapp3.1\SimpleODataQueryMaker.deps.json
+C:\Users\tursunhuja\Source\repos\SimpleODataQueryMaker\SimpleODataQueryMaker\bin\Debug\netcoreapp3.1\SimpleODataQueryMaker.dll
+C:\Users\tursunhuja\Source\repos\SimpleODataQueryMaker\SimpleODataQueryMaker\bin\Debug\netcoreapp3.1\SimpleODataQueryMaker.pdb
+C:\Users\tursunhuja\Source\repos\SimpleODataQueryMaker\SimpleODataQueryMaker\obj\Debug\netcoreapp3.1\SimpleODataQueryMaker.AssemblyInfoInputs.cache
+C:\Users\tursunhuja\Source\repos\SimpleODataQueryMaker\SimpleODataQueryMaker\obj\Debug\netcoreapp3.1\SimpleODataQueryMaker.AssemblyInfo.cs
+C:\Users\tursunhuja\Source\repos\SimpleODataQueryMaker\SimpleODataQueryMaker\obj\Debug\netcoreapp3.1\SimpleODataQueryMaker.csproj.CoreCompileInputs.cache
+C:\Users\tursunhuja\Source\repos\SimpleODataQueryMaker\SimpleODataQueryMaker\obj\Debug\netcoreapp3.1\SimpleODataQueryMaker.dll
+C:\Users\tursunhuja\Source\repos\SimpleODataQueryMaker\SimpleODataQueryMaker\obj\Debug\netcoreapp3.1\SimpleODataQueryMaker.pdb

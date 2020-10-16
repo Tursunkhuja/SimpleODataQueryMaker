@@ -1,0 +1,16 @@
+C:\Users\tursunhuja\Source\repos\SimpleODataQueryMaker\SimpleODataQueryMakerConsoleTest\bin\Debug\netcoreapp3.1\SimpleODataQueryMakerConsoleTest.exe
+C:\Users\tursunhuja\Source\repos\SimpleODataQueryMaker\SimpleODataQueryMakerConsoleTest\bin\Debug\netcoreapp3.1\SimpleODataQueryMakerConsoleTest.deps.json
+C:\Users\tursunhuja\Source\repos\SimpleODataQueryMaker\SimpleODataQueryMakerConsoleTest\bin\Debug\netcoreapp3.1\SimpleODataQueryMakerConsoleTest.runtimeconfig.json
+C:\Users\tursunhuja\Source\repos\SimpleODataQueryMaker\SimpleODataQueryMakerConsoleTest\bin\Debug\netcoreapp3.1\SimpleODataQueryMakerConsoleTest.runtimeconfig.dev.json
+C:\Users\tursunhuja\Source\repos\SimpleODataQueryMaker\SimpleODataQueryMakerConsoleTest\bin\Debug\netcoreapp3.1\SimpleODataQueryMakerConsoleTest.dll
+C:\Users\tursunhuja\Source\repos\SimpleODataQueryMaker\SimpleODataQueryMakerConsoleTest\bin\Debug\netcoreapp3.1\SimpleODataQueryMakerConsoleTest.pdb
+C:\Users\tursunhuja\Source\repos\SimpleODataQueryMaker\SimpleODataQueryMakerConsoleTest\bin\Debug\netcoreapp3.1\SimpleODataQueryMaker.dll
+C:\Users\tursunhuja\Source\repos\SimpleODataQueryMaker\SimpleODataQueryMakerConsoleTest\bin\Debug\netcoreapp3.1\SimpleODataQueryMaker.pdb
+C:\Users\tursunhuja\Source\repos\SimpleODataQueryMaker\SimpleODataQueryMakerConsoleTest\obj\Debug\netcoreapp3.1\SimpleODataQueryMakerConsoleTest.csprojAssemblyReference.cache
+C:\Users\tursunhuja\Source\repos\SimpleODataQueryMaker\SimpleODataQueryMakerConsoleTest\obj\Debug\netcoreapp3.1\SimpleODataQueryMakerConsoleTest.AssemblyInfoInputs.cache
+C:\Users\tursunhuja\Source\repos\SimpleODataQueryMaker\SimpleODataQueryMakerConsoleTest\obj\Debug\netcoreapp3.1\SimpleODataQueryMakerConsoleTest.AssemblyInfo.cs
+C:\Users\tursunhuja\Source\repos\SimpleODataQueryMaker\SimpleODataQueryMakerConsoleTest\obj\Debug\netcoreapp3.1\SimpleODataQueryMakerConsoleTest.csproj.CoreCompileInputs.cache
+C:\Users\tursunhuja\Source\repos\SimpleODataQueryMaker\SimpleODataQueryMakerConsoleTest\obj\Debug\netcoreapp3.1\SimpleODataQueryMakerConsoleTest.csproj.CopyComplete
+C:\Users\tursunhuja\Source\repos\SimpleODataQueryMaker\SimpleODataQueryMakerConsoleTest\obj\Debug\netcoreapp3.1\SimpleODataQueryMakerConsoleTest.dll
+C:\Users\tursunhuja\Source\repos\SimpleODataQueryMaker\SimpleODataQueryMakerConsoleTest\obj\Debug\netcoreapp3.1\SimpleODataQueryMakerConsoleTest.pdb
+C:\Users\tursunhuja\Source\repos\SimpleODataQueryMaker\SimpleODataQueryMakerConsoleTest\obj\Debug\netcoreapp3.1\SimpleODataQueryMakerConsoleTest.genruntimeconfig.cache
