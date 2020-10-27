@@ -65,7 +65,7 @@ namespace SimpleODataQueryMaker
                 if (destinationPath.Contains($"{parentProperty}($select="))
                     return destinationPath.Replace($"{parentProperty}($select=", $"{parentProperty}($select={sourcePath},");
                 else
-                    return destinationPath.Replace($"{parentProperty}(", $"{parentProperty}($select={sourcePath},");
+                    return destinationPath.Replace($"{parentProperty}(", $"{parentProperty}($select={sourcePath};");
             }
 
             string property = sourcePath.Substring(0, indexDot);
