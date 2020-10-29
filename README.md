@@ -1,4 +1,4 @@
-# SimpleODataQueryMaker
+# Simple OData Query Maker
 This project to make simple OData query string containing from select and expand query options.
 The solution contains from 2 projects:
 * **SimpleODataQueryMaker** - class library project that has ODataQueryMaker class. It has one public GenerateODataQueryString method, that you should pass list of string (property paths) and it returns string of generated OData query based on those list of properties.
