@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tursunhuja\\Source\\repos\\SimpleODataQueryMaker\\SimpleODataQueryMakerConsoleTest\\SimpleODataQueryMakerConsoleTest.csproj": {}
+    "C:\\Users\\tursunhuja\\Source\\repos\\Tursunkhuja\\SimpleODataQueryMaker\\SimpleODataQueryMakerConsoleTest\\SimpleODataQueryMakerConsoleTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tursunhuja\\Source\\repos\\SimpleODataQueryMaker\\SimpleODataQueryMakerConsoleTest\\SimpleODataQueryMakerConsoleTest.csproj": {
+    "C:\\Users\\tursunhuja\\Source\\repos\\Tursunkhuja\\SimpleODataQueryMaker\\SimpleODataQueryMakerConsoleTest\\SimpleODataQueryMakerConsoleTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tursunhuja\\Source\\repos\\SimpleODataQueryMaker\\SimpleODataQueryMakerConsoleTest\\SimpleODataQueryMakerConsoleTest.csproj",
+        "projectUniqueName": "C:\\Users\\tursunhuja\\Source\\repos\\Tursunkhuja\\SimpleODataQueryMaker\\SimpleODataQueryMakerConsoleTest\\SimpleODataQueryMakerConsoleTest.csproj",
         "projectName": "SimpleODataQueryMakerConsoleTest",
-        "projectPath": "C:\\Users\\tursunhuja\\Source\\repos\\SimpleODataQueryMaker\\SimpleODataQueryMakerConsoleTest\\SimpleODataQueryMakerConsoleTest.csproj",
+        "projectPath": "C:\\Users\\tursunhuja\\Source\\repos\\Tursunkhuja\\SimpleODataQueryMaker\\SimpleODataQueryMakerConsoleTest\\SimpleODataQueryMakerConsoleTest.csproj",
         "packagesPath": "C:\\Users\\tursunhuja\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tursunhuja\\Source\\repos\\SimpleODataQueryMaker\\SimpleODataQueryMakerConsoleTest\\obj\\",
+        "outputPath": "C:\\Users\\tursunhuja\\Source\\repos\\Tursunkhuja\\SimpleODataQueryMaker\\SimpleODataQueryMakerConsoleTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -35,8 +35,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\tursunhuja\\Source\\repos\\SimpleODataQueryMaker\\SimpleODataQueryMaker\\SimpleODataQueryMaker.csproj": {
-                "projectPath": "C:\\Users\\tursunhuja\\Source\\repos\\SimpleODataQueryMaker\\SimpleODataQueryMaker\\SimpleODataQueryMaker.csproj"
+              "C:\\Users\\tursunhuja\\Source\\repos\\Tursunkhuja\\SimpleODataQueryMaker\\SimpleODataQueryMaker\\SimpleODataQueryMaker.csproj": {
+                "projectPath": "C:\\Users\\tursunhuja\\Source\\repos\\Tursunkhuja\\SimpleODataQueryMaker\\SimpleODataQueryMaker\\SimpleODataQueryMaker.csproj"
               }
             }
           }
@@ -68,14 +68,14 @@
         }
       }
     },
-    "C:\\Users\\tursunhuja\\Source\\repos\\SimpleODataQueryMaker\\SimpleODataQueryMaker\\SimpleODataQueryMaker.csproj": {
+    "C:\\Users\\tursunhuja\\Source\\repos\\Tursunkhuja\\SimpleODataQueryMaker\\SimpleODataQueryMaker\\SimpleODataQueryMaker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tursunhuja\\Source\\repos\\SimpleODataQueryMaker\\SimpleODataQueryMaker\\SimpleODataQueryMaker.csproj",
+        "projectUniqueName": "C:\\Users\\tursunhuja\\Source\\repos\\Tursunkhuja\\SimpleODataQueryMaker\\SimpleODataQueryMaker\\SimpleODataQueryMaker.csproj",
         "projectName": "SimpleODataQueryMaker",
-        "projectPath": "C:\\Users\\tursunhuja\\Source\\repos\\SimpleODataQueryMaker\\SimpleODataQueryMaker\\SimpleODataQueryMaker.csproj",
+        "projectPath": "C:\\Users\\tursunhuja\\Source\\repos\\Tursunkhuja\\SimpleODataQueryMaker\\SimpleODataQueryMaker\\SimpleODataQueryMaker.csproj",
         "packagesPath": "C:\\Users\\tursunhuja\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tursunhuja\\Source\\repos\\SimpleODataQueryMaker\\SimpleODataQueryMaker\\obj\\",
+        "outputPath": "C:\\Users\\tursunhuja\\Source\\repos\\Tursunkhuja\\SimpleODataQueryMaker\\SimpleODataQueryMaker\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

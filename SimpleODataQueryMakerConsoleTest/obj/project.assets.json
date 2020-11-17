@@ -34,11 +34,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tursunhuja\\Source\\repos\\SimpleODataQueryMaker\\SimpleODataQueryMakerConsoleTest\\SimpleODataQueryMakerConsoleTest.csproj",
+      "projectUniqueName": "C:\\Users\\tursunhuja\\Source\\repos\\Tursunkhuja\\SimpleODataQueryMaker\\SimpleODataQueryMakerConsoleTest\\SimpleODataQueryMakerConsoleTest.csproj",
       "projectName": "SimpleODataQueryMakerConsoleTest",
-      "projectPath": "C:\\Users\\tursunhuja\\Source\\repos\\SimpleODataQueryMaker\\SimpleODataQueryMakerConsoleTest\\SimpleODataQueryMakerConsoleTest.csproj",
+      "projectPath": "C:\\Users\\tursunhuja\\Source\\repos\\Tursunkhuja\\SimpleODataQueryMaker\\SimpleODataQueryMakerConsoleTest\\SimpleODataQueryMakerConsoleTest.csproj",
       "packagesPath": "C:\\Users\\tursunhuja\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tursunhuja\\Source\\repos\\SimpleODataQueryMaker\\SimpleODataQueryMakerConsoleTest\\obj\\",
+      "outputPath": "C:\\Users\\tursunhuja\\Source\\repos\\Tursunkhuja\\SimpleODataQueryMaker\\SimpleODataQueryMakerConsoleTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -62,8 +62,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\tursunhuja\\Source\\repos\\SimpleODataQueryMaker\\SimpleODataQueryMaker\\SimpleODataQueryMaker.csproj": {
-              "projectPath": "C:\\Users\\tursunhuja\\Source\\repos\\SimpleODataQueryMaker\\SimpleODataQueryMaker\\SimpleODataQueryMaker.csproj"
+            "C:\\Users\\tursunhuja\\Source\\repos\\Tursunkhuja\\SimpleODataQueryMaker\\SimpleODataQueryMaker\\SimpleODataQueryMaker.csproj": {
+              "projectPath": "C:\\Users\\tursunhuja\\Source\\repos\\Tursunkhuja\\SimpleODataQueryMaker\\SimpleODataQueryMaker\\SimpleODataQueryMaker.csproj"
             }
           }
         }

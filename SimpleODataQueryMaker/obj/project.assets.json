@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tursunhuja\\Source\\repos\\SimpleODataQueryMaker\\SimpleODataQueryMaker\\SimpleODataQueryMaker.csproj",
+      "projectUniqueName": "C:\\Users\\tursunhuja\\Source\\repos\\Tursunkhuja\\SimpleODataQueryMaker\\SimpleODataQueryMaker\\SimpleODataQueryMaker.csproj",
       "projectName": "SimpleODataQueryMaker",
-      "projectPath": "C:\\Users\\tursunhuja\\Source\\repos\\SimpleODataQueryMaker\\SimpleODataQueryMaker\\SimpleODataQueryMaker.csproj",
+      "projectPath": "C:\\Users\\tursunhuja\\Source\\repos\\Tursunkhuja\\SimpleODataQueryMaker\\SimpleODataQueryMaker\\SimpleODataQueryMaker.csproj",
       "packagesPath": "C:\\Users\\tursunhuja\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tursunhuja\\Source\\repos\\SimpleODataQueryMaker\\SimpleODataQueryMaker\\obj\\",
+      "outputPath": "C:\\Users\\tursunhuja\\Source\\repos\\Tursunkhuja\\SimpleODataQueryMaker\\SimpleODataQueryMaker\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

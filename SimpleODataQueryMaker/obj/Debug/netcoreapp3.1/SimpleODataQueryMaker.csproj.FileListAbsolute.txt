@@ -14,3 +14,4 @@ C:\Users\tursunhuja\Source\repos\Tursunkhuja\SimpleODataQueryMaker\SimpleODataQu
 C:\Users\tursunhuja\Source\repos\Tursunkhuja\SimpleODataQueryMaker\SimpleODataQueryMaker\obj\Debug\netcoreapp3.1\SimpleODataQueryMaker.csproj.CoreCompileInputs.cache
 C:\Users\tursunhuja\Source\repos\Tursunkhuja\SimpleODataQueryMaker\SimpleODataQueryMaker\obj\Debug\netcoreapp3.1\SimpleODataQueryMaker.dll
 C:\Users\tursunhuja\Source\repos\Tursunkhuja\SimpleODataQueryMaker\SimpleODataQueryMaker\obj\Debug\netcoreapp3.1\SimpleODataQueryMaker.pdb
+C:\Users\tursunhuja\Source\repos\Tursunkhuja\SimpleODataQueryMaker\SimpleODataQueryMaker\obj\Debug\netcoreapp3.1\SimpleODataQueryMaker.csprojAssemblyReference.cache
